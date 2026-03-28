@@ -181,3 +181,9 @@ footer {
 	border: #b0afaf 2px solid;
 	margin: auto;
 }
+/*Contact class*/
+.contact {
+	font-weight: normal;
+	font-style: italic;
+	color: #ffffff;
+}
