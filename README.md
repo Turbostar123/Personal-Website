@@ -1,2 +1,2 @@
 # Personal-Website
-A personal website I created using HTML and CSS
+A personal website I created using HTML and CSS. This website originally started as a class project. I decided to dive deeper into HTML and CSS, and turn this class project into my own personal website. The website uses standard HTML 5 formatting and CSS. No JavaScript is involved with the website currently, but that may change in the future.
